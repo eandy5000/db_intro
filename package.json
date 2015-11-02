@@ -1,0 +1,21 @@
+{
+  "name": "db_intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^3.3.5",
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "jquery": "^2.1.4",
+    "mongoose": "^4.2.3",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
